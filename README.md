@@ -12,6 +12,6 @@ Check out my demo video -> [Futuristic Violence Demo](https://youtu.be/QYEkJN1zL
 
 ## Controls
 
-WASD - move around
-Space - jump
-Left click - shoot
+- WASD - move around
+- Space - jump
+- Left click - shoot
